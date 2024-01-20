@@ -1,11 +1,28 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introduction](README.md)
+* [SMTP Hacking Tools](smtp-hacking-tools.md)
 
-## Enumeration
+## 1⃣ SMTP Introduction
 
-* [Page 1](enumeration/page-1.md)
+* [Page 1](smtp-introduction/page-1.md)
 
-## Exploitation
+## 2⃣ Enumeration
 
-* [MsfConsole Modules](exploitation/msfconsole-modules.md)
+* [Nmap](enumeration/nmap.md)
+* [MsfConsole](enumeration/msfconsole.md)
+* [smtp user enum](enumeration/smtp-user-enum.md)
+* [Netcat](enumeration/netcat.md)
+
+## 3⃣ SMTP Exploitation
+
+* [MsfConsole Modules](smtp-exploitation/msfconsole-modules.md)
+
+## 4⃣ SMTP Vulnerabilities
+
+* [Page](smtp-vulnerabilities/page.md)
+* [Page 2](smtp-vulnerabilities/page-2.md)
+
+## 5⃣ SMTP Attacks
+
+* [Email Spoofing](smtp-attacks/email-spoofing.md)
